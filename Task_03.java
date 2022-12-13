@@ -4,7 +4,7 @@ public class Task_03 {
         int m = 3;
         int nums2[] = {2, 5, 6};
         int n = 3;
-       System.out.println(merge(nums1, m, nums2, n));
+       merge(nums1, m, nums2, n);
 
     }
 
